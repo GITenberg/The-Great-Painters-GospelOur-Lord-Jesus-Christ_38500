@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39499'
     url: http://www.gutenberg.org/2009/agents/39499
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38500#The-Great-Painters-GospelOur-Lord-Jesus-Christ
 gutenberg_issued: '2012-01-05'
 gutenberg_type: Text
 identifiers:
