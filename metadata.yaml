@@ -1,0 +1,31 @@
+_repo: The-Great-Painters-GospelOur-Lord-Jesus-Christ_38500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, Henry Turner
+    alias: Bailey, Henry T. (Henry Turner)
+    birthdate: 1865
+    deathdate: 1931
+    gutenberg_agent_id: '39499'
+    url: http://www.gutenberg.org/2009/agents/39499
+description: ''
+gutenberg_issued: '2012-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38500'
+  lccn: 01029425
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Painting'
+- !lcsh 'Jesus Christ -- Biography'
+- !lcsh 'Jesus Christ -- Art'
+title: "The Great Painters' Gospel\r\nPictures Representing Scenes and Incidents in\
+  \ the Life of Our Lord Jesus Christ"
+url: http://www.gutenberg.org/ebooks/38500
